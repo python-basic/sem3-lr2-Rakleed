@@ -42,7 +42,7 @@ import math
 
 ### Мотивирующее изображение
 
-![Мост через реку](https://images.unsplash.com/photo-1569365926133-759cd5e8520d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80 "Inspired picture.").
+![Мост через реку](https://images.unsplash.com/photo-1569365926133-759cd5e8520d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80 "Inspired picture.")
 
 ### Решение задачи
 
