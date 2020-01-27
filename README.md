@@ -38,7 +38,7 @@ import math
 
 ### Моё портфолио
 
-[Мой репозиторий на GitHub](https://github.com/Rakleed/rgpu).
+[Мой репозиторий на GitHub.](https://github.com/Rakleed/rgpu)
 
 ### Мотивирующее изображение
 
