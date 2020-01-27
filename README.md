@@ -1,5 +1,3 @@
-# sem3-lr2-markdown-git
-
 ## Описание задания 
 
 Посмотреть материалы об использовании GitHub и разметке Markdown, скринкасты об использовании Git, GitHub и с помощью одного из этих инструментов создать документ, используя разметку Markdown, где должен содержаться:
@@ -28,7 +26,42 @@ import math
 ```
 Посмотрите документацию и найдите с помощью какого метода можно вычислить корень
 
+# Ответ на задание
 
+## Моисеенко Павел
 
+### Мои компетенции
 
+1. Word
+2. C language
+3. Adobe Photoshop
 
+### Моё портфолио
+
+[Мой репозиторий на GitHub](https://github.com/Rakleed/rgpu).
+
+### Мотивирующее изображение
+
+![Мост через реку](https://images.unsplash.com/photo-1569365926133-759cd5e8520d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80 "Inspired picture.")
+
+### Решение задачи
+
+```python
+from math import sqrt
+
+def main ():
+    print("Программа ищет площадь треугольника, используя формулу Герона.\n")
+    a = float(input("Введите a: "))
+    b = float(input("Введите b: "))
+    c = float(input("Введите c: "))
+
+    result = geron_sq(a, b, c)
+
+    print("\nПлощадь треугольника = " + str(result))
+
+def geron_sq(a, b, c):
+    p = 1 / 2 * (a + b + c) # Вычисление полупериметра
+    return sqrt(p * (p - a) * (p - b) * (p - c)) # Вычисление площади треугольника
+
+main()
+```
